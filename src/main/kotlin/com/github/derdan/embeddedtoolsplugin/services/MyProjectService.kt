@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.derdan.embeddedtoolsplugin.services
 
+import com.github.derdan.embeddedtoolsplugin.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 
